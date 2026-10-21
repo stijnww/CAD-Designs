@@ -1,0 +1,6 @@
+*.sldwrk
+*.swp
+*.bak
+*.log
+~$*
+Thumbs.db
